@@ -1,11 +1,11 @@
 CTF challenge I created that involves cryptography and reverse engineering. The segfault is intentional. I mistakingly didn't make it immediately obvious, which might make someone think there was a bad conversion.  
-
-challenge.txt is the starting point. Other files are for reference after completing the challenge.
+```challenge.txt``` is the starting point. Other files are for reference after completing the challenge.
 <details>
   <summary>Hints:</summary>
   
-  How many unique words are there?  
-  Indirect calls don't have to be actual calls.
+  - How many unique words are there?
+  - How many columns?
+  - Indirect calls don't have to be actual calls.
   
 </details>
 

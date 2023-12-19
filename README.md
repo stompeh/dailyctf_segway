@@ -4,8 +4,8 @@ CTF challenge I created that involves cryptography and reverse engineering. The 
   <summary>Hints (Click Here):</summary>
   
   - How many unique words are there?
-  - How many columns?
-    ----
+  - How many columns?  
+    \===============
   - Try static and dynamic analysis. 
   - Indirect calls don't have to be actual calls.
   
